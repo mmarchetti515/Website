@@ -1,5 +1,6 @@
 ======================================================================================
 This will be where general notes on my website and the design process are located.
+THIS CAN LARGELY BE IGNORED IT IS A MESS
 ======================================================================================
 
 ======================
