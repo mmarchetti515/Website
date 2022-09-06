@@ -2,6 +2,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     background-color: black;
     color: beige;
+    padding: 3em;
 }
 html {
   scrollbar-face-color: #777777;
